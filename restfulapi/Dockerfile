@@ -12,4 +12,4 @@ COPY --from=build /target/restfulapi-0.0.1-SNAPSHOT.jar restfulapi.jar
 EXPOSE 8080
 
 # Run the Spring Boot application when the container starts
-CMD ["java", "-jar", "restfulapi.jar"]
+ENTRYPOINT ["java", "-jar", "restfulapi.jar"]
