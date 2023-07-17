@@ -1,0 +1,5 @@
+# Created at 2023-07-17T15:18:20.185
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Spring Workspace\Repository\API-Encryption\restfulapi\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
